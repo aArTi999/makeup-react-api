@@ -1,0 +1,17 @@
+
+.card-img{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.card-img img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.product-card{
+    background-color: var(--secondary) !important;
+}

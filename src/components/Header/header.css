@@ -1,0 +1,22 @@
+
+.sale-container{
+    width: 100%;
+    background-color: var(--primary);
+    padding: 5px;
+}
+
+.logo h2{
+    color: var(--secondary);
+}
+.sale-text{
+    color:  var(--secondary);
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.dropDown-toggle{
+    background-color: var(--secondary) !important;
+}
+.dropdown-item{
+    text-transform: capitalize;
+}
