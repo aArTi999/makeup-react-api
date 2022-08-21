@@ -20,6 +20,9 @@ const ProductList = () => {
           <CardTitle tag="h5" className='text-light'>
             {product.name}
           </CardTitle>
+          <CardSubtitle tag="h5" className='text-light mb-3 text-capitalize'>
+            {product.brand}
+          </CardSubtitle>
           <CardSubtitle
             className="mb-2 text-light"
             tag="h6">
